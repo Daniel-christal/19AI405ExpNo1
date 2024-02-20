@@ -86,7 +86,7 @@ agent.perform_action("suck")
 agent.print_status()
 
 # OUTPUT:
-![image](https://github.com/Daniel-christal/19AI405ExpNo1/assets/145742847/afa8ee82-d306-4577-8bd1-f0e47ac84f04)
+![image](https://github.com/Daniel-christal/19AI405ExpNo1/assets/145742847/0bb0262e-9e73-484a-8d65-cc969b70c776)
 
 # RESULT:
-Thus,an AI agent is developed.
+Thus, an AI agent is developed.
